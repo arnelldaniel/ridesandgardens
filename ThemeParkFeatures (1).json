@@ -1,0 +1,34 @@
+{
+    "rides_and_gardens": [
+        {
+            "name": "The Dragon's Flight",
+            "type": "Suspended Roller Coaster",
+            "description": "This roller coaster mimics the flight of a dragon, swooping guests through ancient, mist-covered mountains and deep, lush valleys.",
+            "image_path": "assets/images/dragons_flight.jpg"
+        },
+        {
+            "name": "Enchanted Forest Walk",
+            "type": "Themed Garden",
+            "description": "This garden offers a peaceful walk through a beautifully designed forest setting that feels magical.",
+            "image_path": "assets/images/enchanted_forest_walk.jpg"
+        },
+        {
+            "name": "Tidal Wave Tower",
+            "type": "Water Drop Ride",
+            "description": "A thrilling water ride that lifts guests to a great height before plunging them down into a massive splash pool.",
+            "image_path": "assets/images/tidal_wave_tower.jpg"
+        },
+        {
+            "name": "Blossom Gardens",
+            "type": "Botanical Garden",
+            "description": "A garden dedicated to showcasing a variety of flowering plants and trees from around the world.",
+            "image_path": "assets/images/blossom_gardens.jpg"
+        },
+        {
+            "name": "Canyon Racers",
+            "type": "Racing Roller Coaster",
+            "description": "Two parallel tracks race each other through a canyon-themed area.",
+            "image_path": "assets/images/canyon_racers.jpg"
+        }
+    ]
+}
